@@ -4,5 +4,14 @@ h1{
 }
 body{
 
-background:pink;
+background-image: url('images/9.jpg');
+background-size:100%;
+color: #fff;
+text-align: center
+}
+li {
+    display: inline;
+    padding: 10px;
+}
+ul {
 }
