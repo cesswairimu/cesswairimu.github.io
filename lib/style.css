@@ -4,7 +4,7 @@ h1{
 }
 body{
 
-background-image: url('images/9.jpg');
+background-image: url('../images/9.jpg');
 background-size:100%;
 color: #fff;
 text-align: center
