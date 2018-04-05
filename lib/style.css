@@ -1,5 +1,6 @@
 h1{
-    color:#0066ff;
+    font-family: cursive;
+    font-size: 60px;
 
 }
 body{
@@ -14,4 +15,8 @@ li {
     padding: 10px;
 }
 ul {
+}
+p {
+    font-family: monospace;
+    font-size: 20px;
 }
