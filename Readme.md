@@ -14,7 +14,7 @@ But seriously who doesn't have a portfolio somewhere? Not me, because here is mi
 :four: The emojis do not really relate to what I did in the files changed but there are the closest I could get *with my small creative mind* :smiley:  
 :five: This project is built with simple html and css. Its not even the best there is but hey, it works fine and I now have a portfolio don't I? :raised_hands:  
 
- <img src= "./images/achieve.gif" alt="Yeeeih" width="400" height="300" border="10" />
+ <div style="text-align:center"><img src= "./images/achieve.gif" alt="Yeeeih" width="400" height="300" border="10" /></div
 
 ## Reuse
 I would love to see some contributions but you do not know me so you cannot contribute to this :pensive:  
