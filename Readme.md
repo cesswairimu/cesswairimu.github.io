@@ -15,13 +15,6 @@ But seriously who doesn't have a portfolio somewhere? Not me, because here is mi
 :five: This project is built with simple html and css. Its not even the best there is but hey, it works fine and I now have a portfolio don't I? :raised_hands:  
 
  <img src= "./images/achieve.gif" alt="Yeeeih" width="400" height="300" border="10" />
-:three: They look so good especially in commits. I made a point of using emojis in each and every commit I make *expect for initial, which was made ages ago* 
-
-### Disclaimer
-:four: The emojis do not really relate to what I did in the files changed but there are the closest I could get *with my small creative mind* :smiley:  
-:five: This project is built with simple html and css. Its not even the best there is but hey, it works fine and I now have a portfolio don't I? :raised_hands:  
-
- <div style="text-align:center"><img src= "./images/achieve.gif" alt="Yeeeih" width="400" height="300" border="10" /></div
 
 ## Reuse
 I would love to see some contributions but you do not know me so you cannot contribute to this :pensive:  
@@ -42,7 +35,6 @@ But I promise I will def take a look :coffee:
 This is hosted on github just scroll :arrow_up: and under description you will see a link to my  :page_facing_up:  
 I would have put a link here but I just don't want to :expressionless:
 
-I get my emojis [here](https://www.webpagefx.com/tools/emoji-cheat-sheet/). You are welcome :neckbeard:  
 [Here](https://www.webpagefx.com/tools/emoji-cheat-sheet/) is where i get my emojis from. You are welcome :neckbeard:  
 
 Mail me: [:envelope:](mailto:cessmbuguar@gmail.com') 
