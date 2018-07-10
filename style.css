@@ -27,3 +27,13 @@ img {
 #skill{
     color: #63AACD;
 }
+
+a {
+    color:  #CC00CC ;
+    font-family: Comic Sans Ms;
+
+}
+a:hover {
+    color: #ff3;
+
+}
